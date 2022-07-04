@@ -1,0 +1,4 @@
+radio button (male,female) - enum
+browse (photo)  - varchar (file name)
+dropdown (city,state,country)
+checkbox (notification)
